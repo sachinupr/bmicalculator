@@ -1,0 +1,61 @@
+
+#fl
+{
+    margin-left:45%;
+    color:black;
+    margin-top:60px;
+    font-size:30px;
+    font-family:algerian;
+}
+#first
+{
+    width:450px;
+    height:250px; 
+    background-color:blue;
+    margin-left:38%; 
+    margin-top:60px;
+    padding-top:50px;
+}
+
+#info
+{   
+    padding-top:10px;
+    padding-left:40px;   
+    margin-left:120px;
+    margin-top:100px;
+    width:200px;
+    height:160px; 
+    background-color:skyblue;
+} 
+
+
+#a{
+    color:white;
+    margin-left:30px;
+    font-size:20px;
+}
+
+#b{
+    color:white;
+    margin-left:30px;
+    font-size:20px;
+} 
+#find{
+    margin-left:130px; 
+    margin-top:50px;
+    font-size:20px;
+    /* font-family:cursive; */
+}
+#result
+{
+  font-size:20px;
+  margin-left:15px; 
+  font-size:cursive;
+}
+
+#reset
+{
+    margin-top:15px;
+    margin-left:190px;
+    font-size:20px;
+}
